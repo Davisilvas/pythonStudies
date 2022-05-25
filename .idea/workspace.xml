@@ -2,12 +2,16 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="65d3396b-2c7a-4118-810c-34fb5e37fab2" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/firstSteps/basicLevel/__init__.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/firstSteps/basicLevel/lesson1.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/firstSteps/basicLevel/lesson2.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/firstSteps/basicLevel/lesson3.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/firstSteps/__init__.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/firstSteps/basicLevel/lesson2/__init__.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/firstSteps/basicLevel/lesson3/__init__.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/firstSteps/basicLevel/lesson4/__init__.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/firstSteps/basicLevel/lesson5/__init__.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/firstSteps/firsLesson.py" beforeDir="false" afterPath="$PROJECT_DIR$/firstSteps/teste.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ANOTAÇÕES PYTHON/Python Básico.docx" beforeDir="false" afterPath="$PROJECT_DIR$/ANOTAÇÕES PYTHON/Python Básico.docx" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/firstSteps/basicLevel/lesson1.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/firstSteps/basicLevel/lesson2.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/firstSteps/basicLevel/lesson3.py" beforeDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -24,6 +28,9 @@
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
+  <component name="HighlightingSettingsPerFile">
+    <setting file="file://$PROJECT_DIR$/sectionOneBasicPython/firstSteps/basicLevel/lesson5/lesson5.py" root0="FORCE_HIGHLIGHTING" />
+  </component>
   <component name="ProjectId" id="29cyNGbHsowOsSvG8vaPGV16Kfi" />
   <component name="ProjectLevelVcsManager" settingsEditedManually="true">
     <ConfirmationsSetting value="2" id="Add" />
@@ -38,7 +45,12 @@
     <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="settings.editor.selected.configurable" value="preferences.pluginManager" />
   </component>
-  <component name="RunManager" selected="Python.lesson3">
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="D:\4.1 CURSO PYTHON\firstSteps\lesson1" />
+    </key>
+  </component>
+  <component name="RunManager" selected="Python.lesson5">
     <configuration name="lesson1" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="4.1 CURSO PYTHON" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -102,7 +114,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="secondLesson" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+    <configuration name="lesson4" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="4.1 CURSO PYTHON" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -110,11 +122,11 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/firstSteps" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/firstSteps/basicLevel" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/firstSteps/secondLesson.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/firstSteps/basicLevel/lesson4.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -123,7 +135,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="teste" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+    <configuration name="lesson5" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="4.1 CURSO PYTHON" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -131,11 +143,11 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/firstSteps" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/firstSteps/basicLevel/lesson5" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="D:\4.1 CURSO PYTHON\firstSteps\teste.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/firstSteps/basicLevel/lesson5/lesson5.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -146,11 +158,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Python.lesson5" />
+        <item itemvalue="Python.lesson4" />
         <item itemvalue="Python.lesson3" />
         <item itemvalue="Python.lesson2" />
         <item itemvalue="Python.lesson1" />
-        <item itemvalue="Python.secondLesson" />
-        <item itemvalue="Python.teste" />
       </list>
     </recent_temporary>
   </component>
