@@ -1,0 +1,7 @@
+print('string 1')
+print('string "2"')
+print('string 3')
+#print('string '4'')
+print('string \'5\'')
+print('string \n 6')
+print(r'string \n 7')
