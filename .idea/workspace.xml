@@ -2,12 +2,13 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="65d3396b-2c7a-4118-810c-34fb5e37fab2" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/sectionOneBasicPython/firstSteps/basicLevel/exercises/ex1.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/sectionOneBasicPython/firstSteps/basicLevel/exercises/ex2.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/sectionOneBasicPython/firstSteps/basicLevel/exercises/ex3.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/sectionOneBasicPython/firstSteps/basicLevel/lesson12/lesson12.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/sectionOneBasicPython/firstSteps/basicLevel/lesson13/lesson13.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/sectionOneBasicPython/firstSteps/basicLevel/lesson14/lesson14.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/sectionOneBasicPython/firstSteps/basicLevel/exercises/ex4.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/sectionOneBasicPython/firstSteps/basicLevel/lesson15/lesson15.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/sectionOneBasicPython/firstSteps/basicLevel/lesson16/lesson16.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/sectionOneBasicPython/firstSteps/basicLevel/lesson17/lesson17.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/sectionOneBasicPython/firstSteps/basicLevel/lesson18/lesson18.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/sectionOneBasicPython/firstSteps/basicLevel/lesson19/lesson19.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/sectionOneBasicPython/firstSteps/basicLevel/lesson20/lesson20.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -45,8 +46,8 @@
       <recent name="D:\4.1 CURSO PYTHON\firstSteps\lesson1" />
     </key>
   </component>
-  <component name="RunManager" selected="Python.lesson14">
-    <configuration name="ex1" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+  <component name="RunManager" selected="Python.lesson20">
+    <configuration name="ex4" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="4.1 CURSO PYTHON" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -58,7 +59,7 @@
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/sectionOneBasicPython/firstSteps/basicLevel/exercises/ex1.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/sectionOneBasicPython/firstSteps/basicLevel/exercises/ex4.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -67,7 +68,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="ex2" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+    <configuration name="lesson17" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="4.1 CURSO PYTHON" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -75,11 +76,11 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/sectionOneBasicPython/firstSteps/basicLevel/exercises" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/sectionOneBasicPython/firstSteps/basicLevel/lesson17" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/sectionOneBasicPython/firstSteps/basicLevel/exercises/ex2.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/sectionOneBasicPython/firstSteps/basicLevel/lesson17/lesson17.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -88,7 +89,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="ex3" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+    <configuration name="lesson18" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="4.1 CURSO PYTHON" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -96,11 +97,11 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/sectionOneBasicPython/firstSteps/basicLevel/exercises" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/sectionOneBasicPython/firstSteps/basicLevel/lesson18" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/sectionOneBasicPython/firstSteps/basicLevel/exercises/ex3.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/sectionOneBasicPython/firstSteps/basicLevel/lesson18/lesson18.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -109,7 +110,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="lesson13" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+    <configuration name="lesson19" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="4.1 CURSO PYTHON" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -117,11 +118,11 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/sectionOneBasicPython/firstSteps/basicLevel/lesson13" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/sectionOneBasicPython/firstSteps/basicLevel/lesson19" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/sectionOneBasicPython/firstSteps/basicLevel/lesson13/lesson13.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/sectionOneBasicPython/firstSteps/basicLevel/lesson19/lesson19.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -130,7 +131,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="lesson14" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+    <configuration name="lesson20" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="4.1 CURSO PYTHON" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -138,11 +139,11 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/sectionOneBasicPython/firstSteps/basicLevel/lesson14" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/sectionOneBasicPython/firstSteps/basicLevel/lesson20" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/sectionOneBasicPython/firstSteps/basicLevel/lesson14/lesson14.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/sectionOneBasicPython/firstSteps/basicLevel/lesson20/lesson20.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -153,11 +154,11 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Python.lesson14" />
-        <item itemvalue="Python.ex2" />
-        <item itemvalue="Python.ex1" />
-        <item itemvalue="Python.ex3" />
-        <item itemvalue="Python.lesson13" />
+        <item itemvalue="Python.lesson20" />
+        <item itemvalue="Python.ex4" />
+        <item itemvalue="Python.lesson19" />
+        <item itemvalue="Python.lesson18" />
+        <item itemvalue="Python.lesson17" />
       </list>
     </recent_temporary>
   </component>
