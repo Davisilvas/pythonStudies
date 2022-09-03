@@ -84,4 +84,40 @@ print('Mais exemplos')
 arrRange = list(range(20,31))
 print(arrRange, '- Array criado com Range, e transformado com list')
 
-#jogo da forca na pasta exercicios
+#Minha versão do jogo da forca na pasta exercicios, abaixo segue a resolução do professor
+
+secreto = 'doly'
+digitadas = []
+chances = 3
+while True:
+    letra = input('Digite uma letra: ')
+
+    if len(letra) > 1:
+        print('Ahhh isso não vale, digite apenas uma letra.')
+        continue
+    digitadas.append(letra)
+
+    if letra in secreto:
+        print(f'UHUULLL, a letra "{letra}" existe na palavra secreta.')
+    else:
+        print(f'AFFF, a letra "{letra}" não existe na palavra secreta')
+        chances -= 1
+        digitadas.pop()
+
+    secreto_temporario = ''
+    for letra_secreta in secreto:
+        if letra_secreta in digitadas:
+            secreto_temporario += letra_secreta
+        else:
+            secreto_temporario += '*'
+
+    if chances == 0:
+        print('Você gastou todas as suas chances! Infelizmente você perdeu!')
+        break
+
+    if secreto_temporario == secreto:
+        print(f'Que legal, você descobriu a palavra secreta do Dia! A palavra era {secreto}')
+        break
+    else:
+        print(f'A palavra secreta está assim: {secreto_temporario}')
+    print()
