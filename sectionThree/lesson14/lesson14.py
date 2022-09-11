@@ -2,6 +2,8 @@
 UNINDO ITERÁVEIS.
 Zip - Unindo iteráveis 
 Zip_longest - itertools 
+
+ZIP RETORNA UM ITERADOR QUE TEM O MÉTODO NEXT
 """
 
 # Nesse caso nós temous duas listas, uma maior e uma menor. A função zip só vai unir os iteráveis até o MENOR deles acabar. Neste exemplo quando acabou a lista de estados ele parou de unir, deixando a cidade Cuiabá de fora.
