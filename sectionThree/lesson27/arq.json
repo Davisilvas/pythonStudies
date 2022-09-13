@@ -1,0 +1,14 @@
+{
+ "pessoa1": {
+  "nome": "Davi",
+  "idade": 21,
+  "altura": 1.84,
+  "namora": true
+ },
+ "pessoa2": {
+  "nome": "Maria",
+  "idade": 23,
+  "altura": 1.63,
+  "namora": true
+ }
+}
